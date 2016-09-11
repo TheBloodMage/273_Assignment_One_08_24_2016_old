@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class attendance {
 
 	String EmpAns, EmpName;
